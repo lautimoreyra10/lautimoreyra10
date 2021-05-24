@@ -4,6 +4,8 @@ Soy un estudiante de programación web full stack 🚀 en Digital House. Nací e
 ## ✨ Sobre mi
        - 🌱 Actualmente estoy estudiando lenguajes tales como: 1. JavaScript
                                                                2. C#
+                                                               3. HTML
+                                                               4. CSS
        Y herramientas tales como Git, GitHub, NodeJs
        - ⚡ Tengo 19 años
        - 😄 Mis pasatiempos son la producción musical, y tocar instrumentos.
