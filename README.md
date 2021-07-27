@@ -7,5 +7,5 @@ Soy un estudiante de programación web full stack 🚀 en Digital House. Nací e
                                                                3. HTML
                                                                4. CSS
        Y herramientas tales como Git, GitHub, NodeJs
-       - ⚡ Tengo 19 años
+       - ⚡ Tengo 20 años
        - 😄 Mis pasatiempos son la producción musical, y tocar instrumentos.
