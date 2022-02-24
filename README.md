@@ -2,10 +2,10 @@
 Soy un estudiante de programación web full stack 🚀 en Digital House. Nací en la provincia de Córdoba y actualmente resido en la ciudad de San Francisco, Córdoba.
 
 ## ✨ Sobre mi
-       - 🌱 Actualmente estoy estudiando lenguajes tales como: 1. JavaScript
+       - 🌱 Actualmente me desempeño en lenguajes tales como: 1. JavaScript
                                                                2. C#
-                                                               3. HTML
-                                                               4. CSS
-       Y herramientas tales como Git, GitHub, NodeJs
+                                                               3. Sql
+       - Utilizo HTML como lenguaje de marcado, y CSS como lenguaje de hoja de estilos.
+       Implemento el uso, además, de herramientas tales como Git, NodeJs, ExpressJs, y React.
        - ⚡ Tengo 20 años
-       - 😄 Mis pasatiempos son la producción musical, y tocar instrumentos.
+       - 😄 Mis pasatiempos son la producción musical, tocar instrumentos y estudiar.
