@@ -7,5 +7,5 @@ Soy un estudiante de programación web full stack 🚀 en Digital House. Nací e
                                                                3. Sql
        - Utilizo HTML como lenguaje de marcado, y CSS como lenguaje de hoja de estilos.
        Implemento el uso, además, de herramientas tales como Git, NodeJs, ExpressJs, y React.
-       - ⚡ Tengo 20 años
+       - ⚡ Tengo 21 años
        - 😄 Mis pasatiempos son la producción musical, tocar instrumentos y estudiar.
